@@ -1,4 +1,5 @@
 # FashionMNIST_classificator
+In this exercise I have created a multiclass classificator with the use of a CNN network. The model provides satisfactory results with the 92% accuracy on the testing set.
 
 ## Fashion MNIST dataset
 
